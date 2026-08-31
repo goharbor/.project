@@ -1,0 +1,38 @@
+# Maintainer roster for Harbor
+# Documentation: https://github.com/cncf/automation/tree/main/utilities/dot-project
+
+
+#  Maintainers: Please connect your GitHub handle to your LFID on openprofile.dev to enable automatic access to CNCF resources. The system will use your primary email address for setup.
+maintainers:
+  - project_id: "harbor"
+    org: "goharbor"
+    teams:
+      - name: "maintainers"
+        members:
+          - reasonerjt
+          - kofj
+          - mmpei
+          - renmaosheng
+          - wy65701436
+          - ywk253100
+          - hainingzhang
+          - steven-zou
+          - Jérémie MONSINJON
+          - holyhope
+          - Vad1mo
+          - bupd
+          - OrlinVasilev
+      # Unmanaged teams: teams with "managed: false" are tracked in this
+      # file for documentation but are excluded from CNCF resource
+      # provisioning (mailing lists, service desk, Copilot seats, etc).
+      #
+      # Active contributors who do not need full CNCF resource access:
+      # - name: "reviewers"
+      #   managed: false
+      #   members:
+      #     - reviewer-handle
+      #
+      # Former maintainers (remove this section if not applicable):
+      # - name: "emeritus"
+      #   managed: false
+      #   members: []
