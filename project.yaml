@@ -28,7 +28,7 @@ repositories: # TODO: AUTO-DETECTED primary — please verify
 
 website: "https://goharbor.io/"
 
-artwork: "https://landscape.cncf.io/logos/harbor.svg"
+artwork: "https://github.com/cncf/artwork/tree/main/projects/harbor"
 
 adopters:
   path: "https://github.com/goharbor/harbor/blob/main/ADOPTERS.md"
